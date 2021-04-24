@@ -1,7 +1,7 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">GENIUS VARUN 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="@ULTRA_GENIUS_DETECTIVE_SUPPORT"><img src="https://telegra.ph/file/956822923152c7c5a1ae7.jpg"></a></p> 
 </p>
 <h1>BLACK LIGHTNING</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
@@ -20,21 +20,6 @@
 <br>
 
 
-# Credits 
-## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
-* [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
-* [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
-* [Javes 2.0](https://github.com/Javes786/javes-2.0)
-* [TeleBot](https://github.com/xditya/TeleBot)
-* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
-* [CipherX](https://t.me/CipherXBot)
-* [Hellboi-Danish](https://t.me/Hellboi-Danish)
-
-
-# Support
-<a href="https://t.me/blacklightningot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightningsupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Total Commands = CMDS Are More Than 470 :D
 # About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
@@ -83,11 +68,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 * String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
 
 
-# How To
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-<a href="https://app.gitbook.com/@poxsisofficial/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
+/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
 # Deploy
 
