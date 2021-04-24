@@ -3,7 +3,7 @@
 <br>
 <p align="center"><a href="@ULTRA_GENIUS_DETECTIVE_SUPPORT"><img src="https://telegra.ph/file/956822923152c7c5a1ae7.jpg"></a></p> 
 </p>
-<h1>BLACK LIGHTNING</h1>
+<h1>ULTRA G3NIUS USERBOT</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
